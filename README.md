@@ -1,9 +1,6 @@
-# The-macro-scale-patterns-of-UTC-in-Brazil-
+# The-macro-scale-patterns-of-UTC-in-Brazil
 Assessing the macro-scale patterns of urban tree canopy cover in Brazil using high-resolution remote sensing images
 
-
-
-# The Urban Tree Canopy Cover in Brazil
 
 This is the source data for our paper: [Assessing the macro-scale patterns of urban tree canopy cover in Brazil using high-resolution remote sensing images](https://www.sciencedirect.com/science/article/pii/S2210670723006145).
 
